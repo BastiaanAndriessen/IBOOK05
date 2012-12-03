@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<magazine id="1">
+    <name></name>
+    <page id="1">
+        <alignment>left</alignment>
+        <title x="0" y="0" width="0">Achievement, octane fever, & justice.</title>
+        <subtitle x="0" y="0" width="0">The possibilities (and perils) of the unfettered creative mind.</subtitle>
+        <backgroundpath>assets/images/bg1.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min1.jpg</miniaturepath>
+    </page>
+    <page id="2">
+        <backgroundpath>assets/images/bg2.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min2.jpg</miniaturepath>
+    </page>
+    <page id="3">
+        <alignment>left</alignment>
+        <title x="0" y="0" width="0">Follow a mind freed by a massive choice.</title>
+        <paragraph x="0" y="0" width="0">Unleashed by a fresh bounty of exceptional images and type, a creative mind in pursuit of a great idea
+        can follow some pretty strange paths. No I-can't-pull-that-off doubting. Every tangent gets followed
+        Every leap of consciousness gets chased.</paragraph>
+        <paragraph2 x="0" y="0" width="0">Choice rules at Veer, where 100,000 new rights-managed images - some of the finest typography
+        from the world's largest digital collection - are now available. High-concept mind-blowers, historical and editorial
+        juwels, natural wonders, fashion and beauty stunners, and such more. Plus we're introducing Cherry, bright,
+        contemporary, soulful rights-managed illustrations.</paragraph2>
+        <paragraph3 x="0" y="0" width="0">The fetters are off. Let your mind wander</paragraph3>
+        <h2 x="0" y="0" width="0">veer.com/choice</h2>
+        <backgroundpath>assets/images/bg3.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min3.jpg</miniaturepath>
+    </page>
+    <page id="4">
+        <backgroundpath>assets/images/bg4.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min4.jpg</miniaturepath>
+    </page>
+    <page id="5">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">Need a concept for selling dog snacks.</h1>
+        <title x="0" y="0" width="0">Need caffeine. Triple shot, no foam. What's the angle?</title>
+        <h2 x="0" y="0" width="0">Taste? Crunchability? "Meaty" Goodness? Why buy a dog snack? Why have a dog?</h2>
+        <paragraph x="0" y="0" width="0">A pet is a wild animal curled up at the end of your bed.
+        We love dogs because they don't have cellphones (yet). Dogs connect us to nature.</paragraph>
+        <backgroundpath>assets/images/bg5.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min5.jpg</miniaturepath>
+    </page>
+    <page id="6">
+        <backgroundpath>assets/images/bg6.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min6.jpg</miniaturepath>
+    </page>
+    <page id="7">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">Dogs are the essential.</h1>
+        <title x="0" y="0" width="0">Dirt, the smell of a forest, where food comes from.</title>
+        <h2 x="0" y="0" width="0">Hunting for food at midnight.</h2>
+        <backgroundpath>assets/images/bg7.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min7.jpg</miniaturepath>
+    </page>
+    <page id="8">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">I hunted for neo-retro  sneakers at that</h1>
+        <title x="0" y="0" width="0">Slick mall. Slick is cool.</title>
+        <h2 x="0" y="0" width="0">Nowadays everything has to be cool. Dog bones need to be cool. They need to be...
+        Bauhaus. Modernism.</h2>
+        <paragraph x="0" y="0" width="0">Mods on Italian scooters. Clean living under German aesthetics. Less is more.
+        Less is more what? Image? Can't we just talk? Will anybody listen if we just use words?</paragraph>
+        <backgroundpath>assets/images/bg8.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min8.jpg</miniaturepath>
+    </page>
+    <page id="9">
+        <backgroundpath>assets/images/bg9.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min9.jpg</miniaturepath>
+    </page>
+    <page id="10">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">Just words. Dog people are down-to-earth. (except pink poodle-people).</h1>
+        <title x="0" y="0" width="0">You can say a lot with words.</title>
+        <h2 x="0" y="0" width="0">But it doesn't hurt to dress 'em up. Killer coctail dress? Friendly sweater?</h2>
+        <paragraph x="0" y="0" width="0">A friendly sweater like you'd wear in a Christmas TV special.</paragraph>
+        <backgroundpath>assets/images/bg10.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min10.jpg</miniaturepath>
+    </page>
+    <page id="11">
+        <backgroundpath>assets/images/bg11.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min11.jpg</miniaturepath>
+    </page>
+    <page id="12">
+        <backgroundpath>assets/images/bg12.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min12.jpg</miniaturepath>
+    </page>
+    <page id="13">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">Christmas in the mountains. Wooly sweaters. Big smiles. Hungry bears.</h1>
+        <title x="0" y="0" width="0">Would your dog fight a bear for you?</title>
+        <h2 x="0" y="0" width="0">Would snack gratitude buy his loyalty? "These snacks will save you from a bear attack."
+        That's a killer value proposition.</h2>
+        <paragraph x="0" y="0" width="0">But really the only bears most people worry about are the Wall street kind.
+        Especially accountants.</paragraph>
+        <backgroundpath>assets/images/bg13.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min13.jpg</miniaturepath>
+    </page>
+    <page id="14">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">I've seen accountants pick up poo.</h1>
+        <title x="0" y="0" width="0">More bears? No, bulls. Bull markets. Wildebeests.</title>
+        <h2 x="0" y="0" width="0">Not beests. Beasts. Monsters. Like in a kids' story.</h2>
+        <backgroundpath>assets/images/bg14.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min14.jpg</miniaturepath>
+    </page>
+    <page id="15">
+        <backgroundpath>assets/images/bg15.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min15.jpg</miniaturepath>
+    </page>
+    <page id="16">
+        <backgroundpath>assets/images/bg16.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min16.jpg</miniaturepath>
+    </page>
+    <page id="17">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">For some people, dogs are kids. Just hairier.</h1>
+        <title x="0" y="0" width="0">Why not doggy storybooks?</title>
+        <h2 x="0" y="0" width="0">"Scrumptious flocks of chubby rabbits, in little jackets made of bacon,
+        wandered about - slow and fatty for the picking."</h2>
+        <paragraph x="0" y="0" width="0">Nah. Most dogs are city dogs. Gotta keep it real.</paragraph>
+        <backgroundpath>assets/images/bg17.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min17.jpg</miniaturepath>
+    </page>
+    <page id="18">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">Real but surreal. A dog luncheon at some swell café.</h1>
+        <title x="0" y="0" width="0">It'll be the algonquin hound table.</title>
+        <h2 x="0" y="0" width="0">Yikes, what an awful pun. Typical cutesy ad trick. Enough of that.</h2>
+        <paragraph x="0" y="0" width="0">Think big and bold. Less cute. More cutting-edge. ASPIRATION.</paragraph>
+        <backgroundpath>assets/images/bg18.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min18.jpg</miniaturepath>
+    </page>
+    <page id="19">
+        <backgroundpath>assets/images/bg18.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min19.jpg</miniaturepath>
+    </page>
+    <page id="20">
+        <backgroundpath>assets/images/bg20.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min20.jpg</miniaturepath>
+    </page>
+    <page id="21">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">Yes, let's aim higher. Let's honour the honourable: achievement.</h1>
+        <title x="0" y="0" width="0">Feats of engineering.</title>
+        <h2 x="0" y="0" width="0">Courtesy of the human mind. Bigger bridges. Better bones.</h2>
+        <paragraph x="0" y="0" width="0">But where's the love? The emotional connection?</paragraph>
+        <backgroundpath>assets/images/bg21.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min21.jpg</miniaturepath>
+    </page>
+    <page id="22">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">To connect you have to engage. To engage you need to, umm, blow things up!</h1>
+        <title x="0" y="0" width="0">Octane fever! This is how they grab eyeballs in la-la land.</title>
+        <h2 x="0" y="0" width="0">Speed thrills. No reason it can't sell dog snacks.</h2>
+        <paragraph x="0" y="0" width="0">Car chases. Dog chase cars. We chase cars vicariously through our dogs - we envy
+        their freedom. This is about freedom!</paragraph>
+        <backgroundpath>assets/images/bg22.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min22.jpg</miniaturepath>
+    </page>
+    <page id="23">
+        <backgroundpath>assets/images/bg23.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min23.jpg</miniaturepath>
+    </page>
+    <page id="24">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">Freedom? Heck, they sell chewing gum as fre</h1>
+        <title x="0" y="0" width="0">These snacks are sweet liberty. Or justice even. Yes, dog snacks are justice.</title>
+        <h2 x="0" y="0" width="0">Not sure we can deliver this benefit. Something less noble. More modern but, sti</h2>
+        <backgroundpath>assets/images/bg24.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min24.jpg</miniaturepath>
+    </page>
+    <page id="25">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">edom. This is much bigger.</h1>
+        <h2 x="0" y="0" width="0">ll with a wiff of virtue. vitality?</h2>
+        <backgroundpath>assets/images/bg25.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min25.jpg</miniaturepath>
+    </page>
+    <page id="26">
+        <backgroundpath>assets/images/bg26.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min26.jpg</miniaturepath>
+    </page>
+    <page id="27">
+        <alignment>right</alignment>
+        <h1 x="0" y="0" width="0">Vitality is a solid benefit. Vitality=dancing seniors or surfing seniors or frisky seniors. Or...</h1>
+        <title x="0" y="0" width="0">Jet fighters! With massive supersonic, super-vital missiles.</title>
+        <h2 x="0" y="0" width="0">Woah! Missiles? Not missiles. Mistletoe. Eggnog. Eggnog latte.</h2>
+        <backgroundpath>assets/images/bg27.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min27.jpg</miniaturepath>
+    </page>
+    <page id="28">
+        <alignment>left</alignment>
+        <h1 x="0" y="0" width="0">Oh, that's my latte? Thanks.</h1>
+        <title x="0" y="0" width="0">What was that cool idea I just had?</title>
+        <h2 x="0" y="0" width="0">Jet-fighting dog-pilots? Cars jumping L.A.? Freedom? Justice? Bauhaus?</h2>
+        <paragraph x="0" y="0" width="0">What does any of this have to do with dog snacks? Still, I might lay out a few
+        when I get to the office.</paragraph>
+        <backgroundpath>assets/images/bg28.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min28.jpg</miniaturepath>
+    </page>
+    <page id="29">
+        <backgroundpath>assets/images/bg29.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min29.jpg</miniaturepath>
+    </page>
+    <page id="30">
+        <backgroundpath>assets/images/bg30.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min30.jpg</miniaturepath>
+    </page>
+    <page id="31">
+        <alignment>right</alignment>
+        <title x="0" y="0" width="0">Cherry got soul.</title>
+        <paragraph x="0" y="0" width="0">The vibe is personal, real. The feel is hand-done, less slick. This is Cherry,
+        Veer's new rights-managed illustration collection.</paragraph>
+        <paragraph2 x="0" y="0" width="0">Cherry reflects the trend in illustration toward a more DIY/analog aesthetic.
+        And with contributions from over 20 top illustrators, it runs the gamet style-wise. More than just a looker, Cherry
+        infuses whatever is adorns with authenticity. And a little soul</paragraph2>
+        <paragraph3 x="0" y="0" width="0">Features exclusive works from Kirsten Ulve, Nick Dewar, James O' Brien, Frederico
+        Jordán, Richard Downs, and many other bright lights of modern illustration. A Veer Exclusive</paragraph3>
+        <h2 x="0" y="0" width="0">veer.com/cherry</h2>
+        <backgroundpath>assets/images/bg31.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min31.jpg</miniaturepath>
+    </page>
+    <page id="32">
+        <alignment>left</alignment>
+        <title x="0" y="0" width="0">It's a wonderful lightbox!</title>
+        <h3 x="0" y="0" width="0">Free fast image research.</h3>
+        <paragraph x="0" y="0" width="0">Your search for the just-right image or typeface has got you down. Where do you turn? Veer’s
+        researchers are here, creating a lightbox of relevant selections, often within hours. And it’s free.
+        Free to all. The Savings and Loan brochure is saved! In the distance, a bell rings.</paragraph>
+        <h3 x="0" y="0" width="0">E-mail research@veer.com or call toll-free 877 297 7900.</h3>
+        <backgroundpath>assets/images/bg32.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min32.jpg</miniaturepath>
+    </page>
+    <page id="33">
+        <alignment>right</alignment>
+        <title x="0" y="0" width="0">The magnificent sven.</title>
+        <h3 x="0" y="0" width="0">This model really gets around. Place to place. Mood to mood. Wife to wife.</h3>
+        <paragraph x="0" y="0" width="0">Having a variety of images featuring the same model can come in handy. Find them
+        easily with Veer’s new Same Model search. Just click “Find more images with model(s)
+        shown above” whenever you see the link on a Fancy or Solus image and every
+        photograph featuring that model will be displayed.</paragraph>
+        <h2 x="0" y="0" width="0">learn more at veer.com/samemodel.</h2>
+        <backgroundpath>assets/images/bg33.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min33.jpg</miniaturepath>
+    </page>
+    <page id="34">
+        <alignment>right</alignment>
+        <title x="0" y="0" width="0">Merchy Christmas!</title>
+        <paragraph x="0" y="0" width="0">A sackful of new merch – our biggest ever – has arrived. Just in time for
+        holiday gifting and getting. The Kern Arrows zip-up is a Veer classic
+        taken in a new direction. A bright collection of lights and lamps will set
+        the mood at work or home. Plus toys, tees, and a cozy ‘n’ cool type
+        scarf – perfect stocking stuffers.</paragraph>
+        <h2 x="0" y="0" width="0">see all veer’s giFtables at veer.com/merch</h2>
+        <backgroundpath>assets/images/bg34.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min34.jpg</miniaturepath>
+    </page>
+    <page id="35">
+        <backgroundpath>assets/images/bg35.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min35.jpg</miniaturepath>
+    </page>
+    <page id="36">
+        <backgroundpath>assets/images/bg36.jpg</backgroundpath>
+        <miniaturepath>assets/miniatures/min36.jpg</miniaturepath>
+    </page>
+</magazine>
