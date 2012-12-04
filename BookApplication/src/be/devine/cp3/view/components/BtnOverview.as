@@ -11,11 +11,9 @@ public class BtnOverview extends Sprite{
 
     public function BtnOverview()
     {
-        trace("btn overview");
-
         var t:Texture = Texture.fromBitmap(new OverviewButtonImage());
 
-        var overviewButton = new Button(t, "hello");
+        var overviewButton:Button = new Button(t);
         addChild(overviewButton);
     }
 }

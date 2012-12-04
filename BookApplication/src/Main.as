@@ -10,7 +10,7 @@ import flash.events.Event;
 
 import starling.core.Starling;
 
-[SWF(backgroundColor="0xFFFFFF")]
+[SWF(backgroundColor="0xFFFFFF", width=1024, height=768)]
 public class Main extends Sprite {
     private var _starling:Starling;
 
@@ -27,6 +27,8 @@ public class Main extends Sprite {
 
     private function resizeHandler(e:Event):void{
         trace('[Main] resizeHandler');
+        //trace(stage.stageWidth);
+        //trace(stage.stageHeight);
     }
 }
 }
