@@ -28,7 +28,8 @@ public class Application extends Sprite{
 
         setBackgroundPattern();
 
-        _navigation = new Navigation(_appModel);
+        _navigation = new Navigation();
+        _navigation.x = stage.stageWidth/11;
         _navigation.y = stage.stageHeight/10;
         _navigation.controlsContainer.x = stage.stageWidth/3;
         addChild(_navigation);
@@ -68,13 +69,11 @@ public class Application extends Sprite{
     }
 
     private function fullscreenHandler(e:Event):void{
-        trace('[Application] fullscreenHandler');
-        /*if(_appModel.isFullScreen){
+        if(_appModel.isFullScreen){
             Starling.current.nativeStage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
         } else {
-            //starling.current.
-            Starling.current.nativeStage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
-        }*/
+            Starling.current.nativeStage.displayState = StageDisplayState.NORMAL;
+        }
     }
 }
 }

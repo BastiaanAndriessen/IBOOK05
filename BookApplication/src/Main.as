@@ -10,13 +10,15 @@ import flash.events.Event;
 
 import starling.core.Starling;
 
-[SWF(backgroundColor="0xFFFFFF", width=1024, height=768)]
+[SWF(backgroundColor="0xFFFFFF")]
 public class Main extends Sprite {
     private var _starling:Starling;
 
     public function Main() {
         stage.align = StageAlign.TOP_LEFT;
         stage.scaleMode = StageScaleMode.NO_SCALE;
+        stage.nativeWindow.width = 1024;
+        stage.nativeWindow.height = 768;
 
         //this.stage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
 

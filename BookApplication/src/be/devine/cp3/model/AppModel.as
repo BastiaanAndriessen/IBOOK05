@@ -18,7 +18,6 @@ public class AppModel extends EventDispatcher{
         if(e == null){
             throw new Error("AppModel is a Singleton.");
         }
-
     }
 
     public function get isFullScreen():Boolean {

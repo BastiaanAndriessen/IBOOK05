@@ -18,8 +18,8 @@ public class Navigation extends Sprite{
     private var _btnFullscreen:BtnFullscreen;
     private var _controlsContainer:Sprite;
 
-    public function Navigation(appModel:AppModel) {
-        this._appModel = appModel;
+    public function Navigation() {
+        _appModel = AppModel.getInstance();
 
         _btnLogo = new Logo();
         addChild(_btnLogo);
@@ -42,8 +42,11 @@ public class Navigation extends Sprite{
     }
 
     private function toggleFullscreen(e:Event):void{
-        trace('test toggle fullscreen');
-        //this._appModel.isFullscreen = false;
+        if(_appModel.isFullScreen){
+            _appModel.isFullScreen = false;
+        } else {
+            _appModel.isFullScreen = true;
+        }
     }
 
     public function get controlsContainer():Sprite {

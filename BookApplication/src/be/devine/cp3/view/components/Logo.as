@@ -1,5 +1,6 @@
 package be.devine.cp3.view.components {
 import starling.display.Button;
+import starling.display.Image;
 import starling.display.Sprite;
 import starling.textures.Texture;
 
@@ -17,8 +18,10 @@ public class Logo extends Sprite{
         addChild(logoButton);
 
         var t2:Texture = Texture.fromBitmap(new TextButtonImage());
-        var textButton:Button = new Button(t2);
-        addChild(textButton);
+        var text:Image = new Image(t2);
+        addChild(text);
+        text.x = 50;
+        text.y = 15;
     }
 }
 }
