@@ -1,11 +1,20 @@
 package be.devine.cp3.view {
+import be.devine.cp3.model.AppModel;
 import be.devine.cp3.util.ImageLoader;
+import be.devine.cp3.view.components.Overview;
 
-public class Navigation {
-    private var _imgLoader:ImageLoader;
+import starling.display.Sprite;
+import starling.events.Event;
 
-    public function Navigation() {
-        _imgLoader = new ImageLoader();
+public class Navigation extends Sprite{
+    private var _appModel;
+    private var _btnOverview:Overview;
+
+    public function Navigation(appModel:AppModel) {
+        this._appModel = appModel;
+
+        _btnOverview = new Overview();
+        addChild(_btnOverview);
     }
 }
 }

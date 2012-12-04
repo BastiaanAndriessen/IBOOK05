@@ -27,8 +27,6 @@ public class Main extends Sprite {
 
     private function resizeHandler(e:Event):void{
         trace('[Main] resizeHandler');
-        trace('[Main] TEST2');
-
     }
 }
 }

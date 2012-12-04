@@ -1,6 +1,7 @@
 package be.devine.cp3 {
 
 import be.devine.cp3.model.AppModel;
+import be.devine.cp3.view.Navigation;
 
 import flash.display.BitmapData;
 import flash.geom.Point;
@@ -13,20 +14,10 @@ import starling.textures.Texture;
 public class Application extends Sprite{
 
     private var _appModel:AppModel;
+    private var _navigation:Navigation;
 
     public function Application() {
         this.addEventListener(Event.ADDED_TO_STAGE, atsHandler);
-
-        /*var bg:Sprite = new Sprite();
-        var tile:Pattern = new Pattern();
-        var bitmap:BitmapData = new BitmapData(tile.width, tile.height, false);
-        bitmap.draw(tile);
-
-        bg.graphics.clear();
-        bg.graphics.beginBitmapFill(bitmap,null,true,true);
-        bg.graphics.drawRect(0,0,width,height);
-        bg.graphics.endFill();
-        addChild(bg);*/
     }
 
     private function atsHandler(e:Event):void{
@@ -48,6 +39,9 @@ public class Application extends Sprite{
         flatten();
 
         _appModel = AppModel.getInstance();
+
+        _navigation = new Navigation(_appModel);
+        addChild(_navigation);
     }
 }
 }
