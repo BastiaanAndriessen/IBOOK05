@@ -23,7 +23,7 @@ public class Application extends Sprite{
     private function atsHandler(e:Event):void{
         trace('[APPLICATION] atsHandler');
 
-        var tile:Pattern2 = new Pattern2();
+        /*var tile:Pattern2 = new Pattern2();
         var t:Texture = Texture.fromBitmapData(new BitmapData(tile.width, tile.height, false));
         t.repeat = true;
         var image:Image = new Image(t);
@@ -37,7 +37,7 @@ public class Application extends Sprite{
         image.height *= repe;
         addChild(image);
         flatten();
-
+         */
         _appModel = AppModel.getInstance();
 
         _navigation = new Navigation(_appModel);

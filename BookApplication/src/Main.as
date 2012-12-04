@@ -18,7 +18,7 @@ public class Main extends Sprite {
         stage.align = StageAlign.TOP_LEFT;
         stage.scaleMode = StageScaleMode.NO_SCALE;
 
-        this.stage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
+        //this.stage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
 
         _starling = new Starling(Application, stage);
         _starling.start();
