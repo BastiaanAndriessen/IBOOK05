@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<magazine id="1">
-    <name></name>
+<magazine id="1" name="Achievement, octane fever, and justice.">
     <page id="1">
         <alignment>left</alignment>
-        <title x="0" y="0" width="0">Achievement, octane fever, & justice.</title>
+        <title x="0" y="0" width="0">Achievement, octane fever, and justice.</title>
         <subtitle x="0" y="0" width="0">The possibilities (and perils) of the unfettered creative mind.</subtitle>
         <backgroundpath>assets/images/bg1.jpg</backgroundpath>
         <miniaturepath>assets/miniatures/min1.jpg</miniaturepath>
