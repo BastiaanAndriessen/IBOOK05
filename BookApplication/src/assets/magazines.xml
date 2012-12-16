@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<magazine id="1" name="Achievement, octane fever, and justice.">
+<magazine id="1" totalPages="36" name="Achievement, octane fever, and justice.">
     <page id="1">
         <alignment>left</alignment>
         <title x="0" y="0" width="0">Achievement, octane fever, and justice.</title>
         <subtitle x="0" y="0" width="0">The possibilities (and perils) of the unfettered creative mind.</subtitle>
         <backgroundpath>assets/images/bg1.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min1.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min1.jpg</miniaturepath>
     </page>
     <page id="2">
         <backgroundpath>assets/images/bg2.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min2.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min2.jpg</miniaturepath>
     </page>
     <page id="3">
         <alignment>left</alignment>
@@ -25,11 +25,11 @@
         <paragraph3 x="0" y="0" width="0">The fetters are off. Let your mind wander</paragraph3>
         <h2 x="0" y="0" width="0">veer.com/choice</h2>
         <backgroundpath>assets/images/bg3.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min3.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min3.jpg</miniaturepath>
     </page>
     <page id="4">
         <backgroundpath>assets/images/bg4.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min4.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min4.jpg</miniaturepath>
     </page>
     <page id="5">
         <alignment>right</alignment>
@@ -39,11 +39,11 @@
         <paragraph x="0" y="0" width="0">A pet is a wild animal curled up at the end of your bed.
         We love dogs because they don't have cellphones (yet). Dogs connect us to nature.</paragraph>
         <backgroundpath>assets/images/bg5.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min5.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min5.jpg</miniaturepath>
     </page>
     <page id="6">
         <backgroundpath>assets/images/bg6.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min6.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min6.jpg</miniaturepath>
     </page>
     <page id="7">
         <alignment>right</alignment>
@@ -51,7 +51,7 @@
         <title x="0" y="0" width="0">Dirt, the smell of a forest, where food comes from.</title>
         <h2 x="0" y="0" width="0">Hunting for food at midnight.</h2>
         <backgroundpath>assets/images/bg7.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min7.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min7.jpg</miniaturepath>
     </page>
     <page id="8">
         <alignment>left</alignment>
@@ -62,11 +62,11 @@
         <paragraph x="0" y="0" width="0">Mods on Italian scooters. Clean living under German aesthetics. Less is more.
         Less is more what? Image? Can't we just talk? Will anybody listen if we just use words?</paragraph>
         <backgroundpath>assets/images/bg8.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min8.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min8.jpg</miniaturepath>
     </page>
     <page id="9">
         <backgroundpath>assets/images/bg9.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min9.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min9.jpg</miniaturepath>
     </page>
     <page id="10">
         <alignment>left</alignment>
@@ -75,15 +75,15 @@
         <h2 x="0" y="0" width="0">But it doesn't hurt to dress 'em up. Killer coctail dress? Friendly sweater?</h2>
         <paragraph x="0" y="0" width="0">A friendly sweater like you'd wear in a Christmas TV special.</paragraph>
         <backgroundpath>assets/images/bg10.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min10.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min10.jpg</miniaturepath>
     </page>
     <page id="11">
         <backgroundpath>assets/images/bg11.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min11.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min11.jpg</miniaturepath>
     </page>
     <page id="12">
         <backgroundpath>assets/images/bg12.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min12.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min12.jpg</miniaturepath>
     </page>
     <page id="13">
         <alignment>right</alignment>
@@ -94,7 +94,7 @@
         <paragraph x="0" y="0" width="0">But really the only bears most people worry about are the Wall street kind.
         Especially accountants.</paragraph>
         <backgroundpath>assets/images/bg13.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min13.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min13.jpg</miniaturepath>
     </page>
     <page id="14">
         <alignment>left</alignment>
@@ -102,15 +102,15 @@
         <title x="0" y="0" width="0">More bears? No, bulls. Bull markets. Wildebeests.</title>
         <h2 x="0" y="0" width="0">Not beests. Beasts. Monsters. Like in a kids' story.</h2>
         <backgroundpath>assets/images/bg14.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min14.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min14.jpg</miniaturepath>
     </page>
     <page id="15">
         <backgroundpath>assets/images/bg15.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min15.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min15.jpg</miniaturepath>
     </page>
     <page id="16">
         <backgroundpath>assets/images/bg16.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min16.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min16.jpg</miniaturepath>
     </page>
     <page id="17">
         <alignment>right</alignment>
@@ -120,7 +120,7 @@
         wandered about - slow and fatty for the picking."</h2>
         <paragraph x="0" y="0" width="0">Nah. Most dogs are city dogs. Gotta keep it real.</paragraph>
         <backgroundpath>assets/images/bg17.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min17.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min17.jpg</miniaturepath>
     </page>
     <page id="18">
         <alignment>left</alignment>
@@ -129,15 +129,15 @@
         <h2 x="0" y="0" width="0">Yikes, what an awful pun. Typical cutesy ad trick. Enough of that.</h2>
         <paragraph x="0" y="0" width="0">Think big and bold. Less cute. More cutting-edge. ASPIRATION.</paragraph>
         <backgroundpath>assets/images/bg18.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min18.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min18.jpg</miniaturepath>
     </page>
     <page id="19">
         <backgroundpath>assets/images/bg18.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min19.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min19.jpg</miniaturepath>
     </page>
     <page id="20">
         <backgroundpath>assets/images/bg20.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min20.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min20.jpg</miniaturepath>
     </page>
     <page id="21">
         <alignment>right</alignment>
@@ -146,7 +146,7 @@
         <h2 x="0" y="0" width="0">Courtesy of the human mind. Bigger bridges. Better bones.</h2>
         <paragraph x="0" y="0" width="0">But where's the love? The emotional connection?</paragraph>
         <backgroundpath>assets/images/bg21.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min21.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min21.jpg</miniaturepath>
     </page>
     <page id="22">
         <alignment>left</alignment>
@@ -156,11 +156,11 @@
         <paragraph x="0" y="0" width="0">Car chases. Dog chase cars. We chase cars vicariously through our dogs - we envy
         their freedom. This is about freedom!</paragraph>
         <backgroundpath>assets/images/bg22.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min22.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min22.jpg</miniaturepath>
     </page>
     <page id="23">
         <backgroundpath>assets/images/bg23.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min23.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min23.jpg</miniaturepath>
     </page>
     <page id="24">
         <alignment>left</alignment>
@@ -168,18 +168,18 @@
         <title x="0" y="0" width="0">These snacks are sweet liberty. Or justice even. Yes, dog snacks are justice.</title>
         <h2 x="0" y="0" width="0">Not sure we can deliver this benefit. Something less noble. More modern but, sti</h2>
         <backgroundpath>assets/images/bg24.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min24.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min24.jpg</miniaturepath>
     </page>
     <page id="25">
         <alignment>left</alignment>
         <h1 x="0" y="0" width="0">edom. This is much bigger.</h1>
         <h2 x="0" y="0" width="0">ll with a wiff of virtue. vitality?</h2>
         <backgroundpath>assets/images/bg25.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min25.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min25.jpg</miniaturepath>
     </page>
     <page id="26">
         <backgroundpath>assets/images/bg26.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min26.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min26.jpg</miniaturepath>
     </page>
     <page id="27">
         <alignment>right</alignment>
@@ -187,7 +187,7 @@
         <title x="0" y="0" width="0">Jet fighters! With massive supersonic, super-vital missiles.</title>
         <h2 x="0" y="0" width="0">Woah! Missiles? Not missiles. Mistletoe. Eggnog. Eggnog latte.</h2>
         <backgroundpath>assets/images/bg27.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min27.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min27.jpg</miniaturepath>
     </page>
     <page id="28">
         <alignment>left</alignment>
@@ -197,15 +197,15 @@
         <paragraph x="0" y="0" width="0">What does any of this have to do with dog snacks? Still, I might lay out a few
         when I get to the office.</paragraph>
         <backgroundpath>assets/images/bg28.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min28.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min28.jpg</miniaturepath>
     </page>
     <page id="29">
         <backgroundpath>assets/images/bg29.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min29.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min29.jpg</miniaturepath>
     </page>
     <page id="30">
         <backgroundpath>assets/images/bg30.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min30.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min30.jpg</miniaturepath>
     </page>
     <page id="31">
         <alignment>right</alignment>
@@ -219,7 +219,7 @@
         Jordán, Richard Downs, and many other bright lights of modern illustration. A Veer Exclusive</paragraph3>
         <h2 x="0" y="0" width="0">veer.com/cherry</h2>
         <backgroundpath>assets/images/bg31.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min31.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min31.jpg</miniaturepath>
     </page>
     <page id="32">
         <alignment>left</alignment>
@@ -230,7 +230,7 @@
         Free to all. The Savings and Loan brochure is saved! In the distance, a bell rings.</paragraph>
         <h3 x="0" y="0" width="0">E-mail research@veer.com or call toll-free 877 297 7900.</h3>
         <backgroundpath>assets/images/bg32.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min32.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min32.jpg</miniaturepath>
     </page>
     <page id="33">
         <alignment>right</alignment>
@@ -242,7 +242,7 @@
         photograph featuring that model will be displayed.</paragraph>
         <h2 x="0" y="0" width="0">learn more at veer.com/samemodel.</h2>
         <backgroundpath>assets/images/bg33.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min33.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min33.jpg</miniaturepath>
     </page>
     <page id="34">
         <alignment>right</alignment>
@@ -254,14 +254,14 @@
         scarf – perfect stocking stuffers.</paragraph>
         <h2 x="0" y="0" width="0">see all veer’s giFtables at veer.com/merch</h2>
         <backgroundpath>assets/images/bg34.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min34.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min34.jpg</miniaturepath>
     </page>
     <page id="35">
         <backgroundpath>assets/images/bg35.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min35.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min35.jpg</miniaturepath>
     </page>
     <page id="36">
         <backgroundpath>assets/images/bg36.jpg</backgroundpath>
-        <miniaturepath>assets/miniatures/min36.jpg</miniaturepath>
+        <miniaturepath>assets/images/miniatures/min36.jpg</miniaturepath>
     </page>
 </magazine>

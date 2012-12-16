@@ -1,11 +1,11 @@
 package be.devine.cp3.model {
-import starling.events.Event;
-import starling.events.EventDispatcher;
+import flash.events.Event;
+import flash.events.EventDispatcher;
 
 public class AppModel extends EventDispatcher{
     public static var instance:AppModel;
-    public static const TOGGLE_FULLSCREEN:String = "toggle the fullscreen option";
-    private var _isFullScreen:Boolean = false;
+    public static const CURRENT_PAGE_CHANGED:String = "the current page has been changed";
+    private var _currentPage:String;
 
     public static function getInstance():AppModel{
         if(instance == null){
@@ -20,14 +20,14 @@ public class AppModel extends EventDispatcher{
         }
     }
 
-    public function get isFullScreen():Boolean {
-        return _isFullScreen;
+    public function get currentPage():String {
+        return _currentPage;
     }
 
-    public function set isFullScreen(value:Boolean):void {
-        if(_isFullScreen != value){
-            _isFullScreen = value;
-            dispatchEvent(new Event(TOGGLE_FULLSCREEN, true));
+    public function set currentPage(value:String):void {
+        if(_currentPage != value){
+            _currentPage = value;
+            dispatchEvent(new Event(CURRENT_PAGE_CHANGED));
         }
     }
 }

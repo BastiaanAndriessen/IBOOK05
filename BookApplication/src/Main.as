@@ -20,8 +20,6 @@ public class Main extends Sprite {
         stage.nativeWindow.width = 1024;
         stage.nativeWindow.height = 768;
 
-        //this.stage.displayState = StageDisplayState.FULL_SCREEN_INTERACTIVE;
-
         _starling = new Starling(Application, stage);
         _starling.start();
         stage.addEventListener(Event.RESIZE, resizeHandler);
