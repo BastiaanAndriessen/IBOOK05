@@ -28,12 +28,12 @@ public class InfoComponent extends Sprite{
 
         var paragraphString:String = "Go to Overview to walk through all the miniatures."+
         "Click a miniature to get a close look of one of the pages.";
-        var paragraph:TextField = TextfieldFactory.createTextfield(paragraphString);
+        var paragraph:TextField = TextfieldFactory.createTextfield(paragraphString, 40);
         paragraph.y = title.y + title.height;
         text.addChild(paragraph);
 
-        var paragraphString2:String = "Ik you’re at a page you can click the arrows to go to the previous or next page. You can also use your arrows to navigate through the miniature pages or the big pages.";
-        var paragraph2:TextField = TextfieldFactory.createTextfield(paragraphString2);
+        var paragraphString2:String = "If you’re at a page you can click the arrows to go to the previous or next page. You can use 'p' (previous) and 'n' (next) to navigate through the miniatures.";
+        var paragraph2:TextField = TextfieldFactory.createTextfield(paragraphString2, 60);
         paragraph2.y = paragraph.y + paragraph.height + 10;
         text.addChild(paragraph2);
 

@@ -1,6 +1,5 @@
 package be.devine.cp3.view {
 import be.devine.cp3.util.XMLLoader;
-import be.devine.cp3.vo.MiniatureVO;
 
 import flash.events.Event;
 
@@ -34,7 +33,26 @@ public class Miniatures extends Sprite{
         dispatchEvent(new starling.events.Event(XML_LOADED));
 
         _miniatures = new Array();
-        var posX:uint = 115;
+
+        // grid positie logica:
+        var numCols:uint = 4;
+        for(var i:uint = 0; i< 8; i++) {
+            var page:XML = _loadedXML['page'][i+((_miniaturesPage-1)*8)];
+            /*var item:DisplayObject = items[i];
+            item.x = (i % numCols) * colWidth;
+            item.y = Math.floor(i / numCols) * rowHeight;*/
+
+            if(page != null){
+                var posX:uint = (i % numCols) * page.miniaturepath.@width + 115;
+                var posY:uint = Math.floor(i / numCols) * page.miniaturepath.@height + 180;
+                var mini:MiniatureView = new MiniatureView(page, posX,  posY);
+                addChild(mini);
+
+                _miniatures.push(mini);
+            }
+        }
+
+        /*var posX:uint = 115;
         var posY:uint = 180;
         for each(var page:XML in _loadedXML.page){
             if(page.@id>=((_miniaturesToLoad*_miniaturesPage)-_miniaturesToLoad) && page.@id<(_miniaturesToLoad*_miniaturesPage)){
@@ -56,11 +74,19 @@ public class Miniatures extends Sprite{
 
                 _miniatures.push(mini);
             }
-        }
+        }*/
     }
 
     public function get totalPages():uint {
         return _totalPages;
+    }
+
+    public function get miniatures():Array {
+        return _miniatures;
+    }
+
+    public function get loadedXML():XML {
+        return _loadedXML;
     }
 }
 }

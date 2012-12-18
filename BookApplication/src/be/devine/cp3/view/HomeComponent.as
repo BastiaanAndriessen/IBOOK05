@@ -27,17 +27,17 @@ public class HomeComponent extends Sprite{
         text.addChild(title);
 
         var paragraphString:String = "The Designers Pub is the place to be for all designers trying to find some inspiration for their next extraordinary design.";
-        var paragraph:TextField = TextfieldFactory.createTextfield(paragraphString);
+        var paragraph:TextField = TextfieldFactory.createTextfield(paragraphString, 45);
         paragraph.y = title.y + title.height;
         text.addChild(paragraph);
 
         var paragraphString2:String = "The Designers Pub is an  application where you can read and gather some inspiration from the Veer Visual Elements Catalog.";
-        var paragraph2:TextField = TextfieldFactory.createTextfield(paragraphString2);
+        var paragraph2:TextField = TextfieldFactory.createTextfield(paragraphString2, 45);
         paragraph2.y = paragraph.y + paragraph.height + 10;
         text.addChild(paragraph2);
 
         var paragraphString3:String = "Find out how the application works under info and enjoy your visit.";
-        var paragraph3:TextField = TextfieldFactory.createTextfield(paragraphString3);
+        var paragraph3:TextField = TextfieldFactory.createTextfield(paragraphString3, 45);
         paragraph3.y = paragraph2.y + paragraph2.height + 10;
         text.addChild(paragraph3);
 
